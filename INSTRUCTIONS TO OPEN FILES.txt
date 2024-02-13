@@ -1,0 +1,13 @@
+INSTRUCTIONS TO OPEN THE DESIRED IMPLEMENTATION:
+
+1. Open the cpp and javascript files in VS Code
+2. In VS Code install the extension "Live Preview"
+3. Right Click on the javascipt file in the file explorer in VS Code and Click on Open with Live Preview 
+4. It will Redirect you to your default browser 
+5. Then you can simulate the Conway's Game of life 
+6. Initially all cells are alive 
+7. Click on Start 
+8. Wait for a second or two
+9. It will give you the final result or generation. 
+
+NOTE: The grid size is predefined in the code itself.
