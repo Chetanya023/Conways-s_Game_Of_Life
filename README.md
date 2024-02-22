@@ -1,4 +1,4 @@
-CONWAY'S GAME OF LIFE PROJECT
+# CONWAY'S GAME OF LIFE PROJECT
 
 •	Developed a captivating implementation of Conway's Game of Life using C++, exploring the intriguing patterns that emerge from simple cellular automaton rules.
 
