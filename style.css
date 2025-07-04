@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: #333;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(20, 20px);
+    gap: 1px;
+    justify-content: center;
+}
+
+.cell {
+    width: 20px;
+    height: 20px;
+    background-color: blue;
+    border: 1px solid #eee;
+}
+
+.cell.dead {
+    background-color: red;
+}
+
+button {
+    margin: 10px;
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
